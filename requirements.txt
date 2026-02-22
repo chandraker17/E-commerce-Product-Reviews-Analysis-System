@@ -1,0 +1,9 @@
+streamlit
+pandas
+mysql-connector-python
+textblob
+vaderSentiment
+plotly
+wordcloud
+openpyxl
+matplotlib
